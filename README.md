@@ -5,7 +5,7 @@ This project trains a regression model on trip data (synthetic + real-ready), ex
 
 ---
 
-## 🔥 Why this project exists
+## Why this project exists
 
 Modern logistics platforms (food delivery, ride-hailing, courier services) live or die on **ETA accuracy**:
 
@@ -21,7 +21,7 @@ This project demonstrates how to:
 
 ---
 
-## ✅ Business framing
+## Business framing
 
 **User:**  
 - Operations / logistics team at a last-mile delivery platform.
@@ -48,7 +48,7 @@ On the sample synthetic dataset, the baseline model achieves:
 
 ---
 
-## 🧱 Architecture overview
+## Architecture overview
 
 High-level components:
 
